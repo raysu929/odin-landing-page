@@ -90,3 +90,34 @@ button {
     border-radius: 10px;
     margin: 10px;
 } 
+
+/* second section styling */
+
+.second {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+    padding: 16px;
+}
+
+.illustration-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.item {
+    text-align: center;
+    padding: 8px;
+    color: #aaa;
+    font-size: 16px;
+    max-width: 200px;
+    margin-bottom: 48px;
+}
+
+.images {
+    border-radius: 10px;
+}
