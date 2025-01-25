@@ -129,3 +129,24 @@ button {
     margin-bottom: 24px;
     margin-top: 5px;
 }
+
+/* third section styling */
+
+.inspo-container {
+    background-color: #E5E7EB ;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight:lighter;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.thor{
+    font-size: 24px;
+    margin-left: 200px;
+    padding: 24px;
+}
+
